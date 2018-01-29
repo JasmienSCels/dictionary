@@ -8,7 +8,10 @@ import com.example.jcels.dictionary.domain.view.base.BaseView;
 import dagger.android.AndroidInjection;
 
 /**
- * Created by jcels on 22/01/2018.
+ * Created by Jasmien Cels on 22/01/2018.
+ *
+ * The purpose of this class is to have all activities extend this activity. Basic common methods required by all activities are
+ * logically represented here.
  */
 
 public class BaseActivity extends AppCompatActivity implements BaseView {

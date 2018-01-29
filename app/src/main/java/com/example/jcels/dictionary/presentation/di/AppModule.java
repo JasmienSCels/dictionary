@@ -7,7 +7,9 @@ import dagger.Binds;
 import dagger.Module;
 
 /**
- * Created by jcels on 22/01/2018.
+ * Created by Jasmien Cels on 22/01/2018.
+ *
+ * The purpose of this abstract class is to provide the application reference, app-wide.
  */
 
 @Module
